@@ -13,6 +13,12 @@
     width: 100vw;
 } */
 
+.jumbotron {
+  height: 20vh;
+  background-color: darkgray; /* Change background color to dark gray */
+  width: 100vw;
+}
+
 .jumbotron h1,
 .jumbotron h2 {
     color: #000;
