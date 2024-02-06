@@ -33,14 +33,14 @@ footer {
 .column {
   float: left;
   width: 33%;
-  padding: 30px;
+  padding: 5px;
   font-size: large;
 }
 
 .doublecolumn {
   float: left;
   width: 66%;
-  padding: 5px;
+  padding: 10px;
   font-size: large;
   text-align: justify;
 }
