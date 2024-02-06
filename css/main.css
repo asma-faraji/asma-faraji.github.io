@@ -4,14 +4,14 @@
     margin-bottom: 0;
 }
 
-.jumbotron {
+/* .jumbotron {
     height: 20vh;
     background-image: url('../assets/rainbow.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     width: 100vw;
-}
+} */
 
 .jumbotron h1,
 .jumbotron h2 {
@@ -33,14 +33,14 @@ footer {
 .column {
   float: left;
   width: 33%;
-  padding: 5px;
+  padding: 20px;
   font-size: large;
 }
 
 .doublecolumn {
   float: left;
   width: 66%;
-  padding: 5px;
+  padding: 10px;
   font-size: large;
   text-align: justify;
 }
